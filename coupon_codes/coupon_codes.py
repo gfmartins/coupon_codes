@@ -9,11 +9,12 @@ Author: Brett Patterson <bmp2@rice.edu>
 import codecs
 import random
 
+#https://www.dicio.com.br/palavras-com-quatro-letras/
 BAD_WORDS = map(lambda w: codecs.decode(w, 'rot13'), [
     'SHPX', 'PHAG', 'JNAX', 'JNAT', 'CVFF', 'PBPX', 'FUVG', 'GJNG', 'GVGF',
     'SNEG', 'URYY', 'ZHSS', 'QVPX', 'XABO', 'NEFR', 'FUNT', 'GBFF', 'FYHG',
     'GHEQ', 'FYNT', 'PENC', 'CBBC', 'OHGG', 'SRPX', 'OBBO', 'WVFZ', 'WVMM',
-    'CUNG', 'PUTA', 'VACA'
+    'CUNG', 'PUTA', 'VACA', 'TOLO', 'LELO', 'COTA', 'RUDE', 'RUIM', 'MEDO', 'COXO', 'GOZO'
 ])
 
 SYMBOLS = list('0123456789ABCDEFGHJKLMNPQRTUVWXY')
