@@ -13,7 +13,7 @@ BAD_WORDS = map(lambda w: codecs.decode(w, 'rot13'), [
     'SHPX', 'PHAG', 'JNAX', 'JNAT', 'CVFF', 'PBPX', 'FUVG', 'GJNG', 'GVGF',
     'SNEG', 'URYY', 'ZHSS', 'QVPX', 'XABO', 'NEFR', 'FUNT', 'GBFF', 'FYHG',
     'GHEQ', 'FYNT', 'PENC', 'CBBC', 'OHGG', 'SRPX', 'OBBO', 'WVFZ', 'WVMM',
-    'CUNG'
+    'CUNG', 'PUTA', 'VACA'
 ])
 
 SYMBOLS = list('0123456789ABCDEFGHJKLMNPQRTUVWXY')
